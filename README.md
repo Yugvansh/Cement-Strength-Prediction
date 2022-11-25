@@ -1,2 +1,2 @@
-# Cement-Strength-Prediction
-Cement Strength Prediction : to predict the type of Mushroom and whether it is edible or poisnous .
+# Mushroom classifier
+Mushroom Classifier : to predict the type of Mushroom and whether it is edible or poisnous .
